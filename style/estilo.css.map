@@ -1,0 +1,1 @@
+{"version":3,"sources":["partials/_variables.scss","partials/_reset.scss","estilo.css","partials/_header.scss","partials/_body.scss"],"names":[],"mappings":"AAAQ,6FAAA;AACA,2HAAA;ACDR;EACI,UAAA;EACA,SAAA;EACA,sBAAA;ACGJ;;ACNA;EACI,kCHEY;AEOhB;;AEVA;EACI,oCJGa;EIFb,mBAAA;EACA,kBAAA;AFaJ;;AEVA;EACI,iBAAA;AFaJ","file":"estilo.css"}
